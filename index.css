@@ -1,0 +1,73 @@
+:root {
+    --margin: 19%;
+}
+
+body {
+    background-color: gray;
+}
+
+.l3skril3aemsa {
+    padding: 3%;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 15px 15px 15px red;
+    margin: var(--margin);
+    background-color: white;
+
+}
+
+.reklama {
+    width: 50%;
+    height: 50%;
+}
+
+.text {
+    font-size: 20px;
+}
+
+img {
+    height: 69%;
+    width: 49%;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+}
+
+.knop {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+}
+
+.knop1 {
+    position: absolute;
+    top: 75%;
+    left: 89.3%;
+}
+
+.text1 {
+    position: absolute;
+    top: 75%;
+    left: 62%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.close {
+    color: white;
+    background-color: red;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 3px solid black;
+}
+
+.go_over {
+    background-color: greenyellow;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 3px solid black;
+}
